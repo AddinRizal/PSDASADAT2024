@@ -1,19 +1,19 @@
 <h1 align="center"> Praktikum Struktur Data dan Algoritma <br /> S1 Sains Data UNS </h1>
 <p align ="center">  <img width = "440" height "248" src = "Material\coverRepo.png" </p>
 <h3 align="center"> Tahun Akademik 2023/2024 Semester Genap </h3>
-<h3 align ="center">  >> <a align = "center" href = "Material\DaftarMateri.md"> 
+<h3 align ="center">  >> <a align = "center" href = "https://github.com/AddinRizal/PSDASADAT2024/blob/main/Material/DaftarMateri.md"> 
 <span align="center">Lihat Materi</span></a> << </h3>
 
 <br>
 <p align="right"> <h3>Tim Asisten Dosen :</h3></p>
 
-- Abraham Willem Hersubagyo (IF 2022) [Github](https://github.com/AbrahamWillemH)
+- Addin Hadi Rizal (IF 2022) [Github](https://github.com/AddinRizal)
 
-- Muhammad Syafiq Ibrahim (IF 2022) [Github](https://github.com/SyafiqMSI)
+- Handi Dwi Cahyo (IF 2022) [Github](https://github.com/Wisle25)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-  <a href="https://wa.me/+6281391611958" target="blank"><img align="center"
+  <a href="https://wa.me/+6285640778505" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
 </p>
