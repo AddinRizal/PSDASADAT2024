@@ -6,6 +6,7 @@
    (deret fibonacci akan digenerate hingga bilangan ke n yang di mana n adalah user input tersebut).
 2. Deret fibonacci yang sudah digenerate akan dimasukkan ke dalam **QUEUE**.
 3. Tampilkan deret fibonacci yang sudah digenerate dan tampilkan hasil penjumlahan dari seluruh elemen dalam **QUEUE** tadi.
+4. Kemudian Analisislah kompleksitas Big-O notation dari program kalian. Kumpulkan dalam bentuk laporan Pdf.
 
 Contoh output:
 ```
@@ -17,3 +18,6 @@ Hasil penjumlahan queue fibonacci:
 Note :
 - Gunakan bahasa Java
 - Gunakan header `<queue>` supaya program lebih cepat dan efisien
+- Kumpulkan semua source code dan laporan pada assignment Google Classroom **(jangan di-ZIP)**, diberi format: **NamaKelas_PSDASADAT02_NIM_NamaLengkap.java** / **NamaKelas_PSDASADAT02_NIM_NamaLengkap.pdf**
+- misal apabila mengumpulkan source code : **A_PSDASADAT02_L0122003_AddinHadiRizal.java**
+- misal apabila mengumpulkan laporan : **A_PSDASADAT02_L0122003_AddinHadiRizal_1.pdf**
