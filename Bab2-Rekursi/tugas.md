@@ -20,4 +20,4 @@ Note :
 - Gunakan header `<queue>` supaya program lebih cepat dan efisien
 - Kumpulkan semua source code dan laporan pada assignment Google Classroom **(jangan di-ZIP)**, diberi format: **NamaKelas_PSDASADAT02_NIM_NamaLengkap.java** / **NamaKelas_PSDASADAT02_NIM_NamaLengkap.pdf**
 - misal apabila mengumpulkan source code : **A_PSDASADAT02_L0122003_AddinHadiRizal.java**
-- misal apabila mengumpulkan laporan : **A_PSDASADAT02_L0122003_AddinHadiRizal_1.pdf**
+- misal apabila mengumpulkan laporan : **A_PSDASADAT02_L0122003_AddinHadiRizal.pdf**
