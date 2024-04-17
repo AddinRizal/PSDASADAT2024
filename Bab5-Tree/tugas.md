@@ -4,5 +4,5 @@ Buatlah sebuah tree dengan depth 4 yang di mana tiap node bertipe data integer. 
 
 Note :
 - Kumpulkan source code dengan format:
-    NamaKelas_PSDASADAT02_NIM_NamaLengkap.java
-    contoh: A_PSDASADAT02_L0122003_AddinHadiRizal.java
+    NamaKelas_PSDASADAT03_NIM_NamaLengkap.java
+    contoh: A_PSDASADAT03_L0122003_AddinHadiRizal.java
