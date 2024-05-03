@@ -1,12 +1,12 @@
 <h1>Daftar Materi Praktikum Struktur Data dan Algoritma</h1>
 
 - Bab 1 - List, Stack, Queue
-    1. [List](https://github.com/SyafiqMSI/PraktikumSDA2024/blob/main/Bab1-ListStackQueue/1-list.md)
-    2. [Stack](https://github.com/SyafiqMSI/PraktikumSDA2024/blob/main/Bab1-ListStackQueue/2-stack.md)
-    3. [Queue](https://github.com/SyafiqMSI/PraktikumSDA2024/blob/main/Bab1-ListStackQueue/3-queue.md)
+    1. [List](https://github.com/AddinRizal/PSDASADAT2024/blob/main/Bab1-ListStackQueue/1-list.md)
+    2. [Stack](https://github.com/AddinRizal/PSDASADAT2024/blob/main/Bab1-ListStackQueue/2-stack.md)
+    3. [Queue](https://github.com/AddinRizal/PSDASADAT2024/blob/main/Bab1-ListStackQueue/3-queue.md)
 
 - Bab 2 - Rekursi
-    1. [Rekursi](https://github.com/SyafiqMSI/PraktikumSDA2024/blob/main/Bab2-Rekursi/1-rekursi.md)
+    1. [Rekursi](https://github.com/AddinRizal/PSDASADAT2024/blob/main/Bab2-Rekursi/1-rekursi.md)
 
 - Bab 3 - Analisis Kompleksitas
     1. [Analisis Kompleksitas](https://github.com/SyafiqMSI/PraktikumSDA2024/blob/main/Bab3-AnalisisKompleksitas/1-analisis-kompleksitas.md)
